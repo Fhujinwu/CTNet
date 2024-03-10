@@ -19,8 +19,7 @@ This is an official implementation of CTNet in our IEEE Transactions on Cybernet
 <a href="https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en">
 CTNet: Contrastive Transformer Network for Polyp Segmentation</a>"
 
-## Usage
-### Note
+## Note
 1.result_map.zip is the test result of CTNet.
 
 
