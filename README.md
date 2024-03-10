@@ -28,7 +28,7 @@ If you use CTNet in your research, please cite our IEEE Transactions on Cybernet
 
 ```text
 @ARTICLE{ctnet,
-  author={Xiao, Bin and Hu, Jinwu and Li, Weisheng and Bi, Xiuli and Pun, Chi-Man},
+  author={Xiao, Bin and Hu, Jinwu and Li, Weisheng and Pun, Chi-Man and Bi, Xiuli},
   journal={IEEE Transactions on Cybernetics}, 
   title={CTNet: Contrastive Transformer Network for Polyp Segmentation}, 
   year={2024}}
