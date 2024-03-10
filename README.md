@@ -3,10 +3,16 @@
 <h4 align="right">by <a href="https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm">Bin Xiao</a>, <a href="https://fhujinwu.github.io/">Jinwu Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=M17E3HEAAAAJ">Weisheng Li</a>, <a href="https://scholar.google.com/citations?user=JTkP_EAAAAAJ&hl=en">Chi-Man Pun</a>, <a href="https://scholar.google.com/citations?hl=en&user=1Ezgfw8AAAAJ">Xiuli Bi *</a></h4>
 
 <div align="center">
-  <img src="./images/fig2.PNG"><br><br>
+  <img src="./utils/1.png"><br><br>
 </div>
 <div align="center">
-  <img src="./images/table5.png"><br><br>
+  <img src="./utils/2.png"><br><br>
+</div>
+<div align="center">
+  <img src="./utils/3.png"><br><br>
+</div>
+<div align="center">
+  <img src="./utils/4.png"><br><br>
 </div>
 
 This is an official implementation of CTNet in our IEEE Transactions on Cybernetics paper "
