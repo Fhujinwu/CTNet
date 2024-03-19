@@ -16,7 +16,7 @@
 </div>
 
 This is an official implementation of CTNet in our IEEE Transactions on Cybernetics paper "
-<a href="https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en">
+<a href="https://ieeexplore.ieee.org/document/10471227">
 CTNet: Contrastive Transformer Network for Polyp Segmentation</a>"
 
 ## Note
@@ -27,11 +27,16 @@ CTNet: Contrastive Transformer Network for Polyp Segmentation</a>"
 If you use CTNet in your research, please cite our IEEE Transactions on Cybernetics paper.
 
 ```text
-@ARTICLE{ctnet,
+@ARTICLE{10471227,
   author={Xiao, Bin and Hu, Jinwu and Li, Weisheng and Pun, Chi-Man and Bi, Xiuli},
   journal={IEEE Transactions on Cybernetics}, 
   title={CTNet: Contrastive Transformer Network for Polyp Segmentation}, 
-  year={2024}}
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TCYB.2024.3368154}}
+
 ```
  
 ## update status
