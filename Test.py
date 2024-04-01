@@ -6,7 +6,7 @@ from model.Mymodel13 import PolypModule
 from utils.dataloader import test_dataset
 import cv2
 
-#最好效果
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--testsize', type=int, default=352, help='testing size')
