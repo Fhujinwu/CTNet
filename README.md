@@ -20,7 +20,8 @@ This is an official implementation of CTNet in our IEEE Transactions on Cybernet
 CTNet: Contrastive Transformer Network for Polyp Segmentation</a>"
 
 ## Note
-1.result_map.zip is the test result of CTNet.
+* Our code is based on the <a href="https://github.com/DengPingFan/PraNet">PraNet</a>, <a href="https://github.com/tfzhou/ContrastiveSeg">ContrastiveSeg</a>, <a href="https://github.com/PaddlePaddle/PaddleSeg">PaddleSeg</a> implementation.
+* result_map.zip is the test result of CTNet.
 
 
 ## Citation
