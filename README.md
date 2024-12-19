@@ -42,3 +42,7 @@ If you use CTNet in your research, please cite our IEEE Transactions on Cybernet
  
 ## update status
 The code (V2.0) is uploaded (Ongoing updates).
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=Fhujinwu/CTNet&type=Date)
